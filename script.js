@@ -20,11 +20,11 @@ document.getElementById('button').addEventListener('click', () => {
 
 $(document).ready(function () {
     $('.container').mouseenter(function () {
-        $('.card').stop().animate({
+        $('.valentines-day-card').stop().animate({
             top: '-90px'
         }, 'slow');
     }).mouseleave(function () {
-        $('.card').stop().animate({
+        $('.valentines-day-card').stop().animate({
             top: 0
         }, 'slow');
     });
