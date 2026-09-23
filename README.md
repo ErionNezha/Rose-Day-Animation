@@ -1,5 +1,7 @@
 # 🌹 Dita e Trëndafilit — Animacion
 
+Created by **Erion Nezha**
+
 Një animacion interaktiv "Happy Rose Day" i ndërtuar vetëm me HTML, CSS dhe JavaScript:
 lule e animuar që rritet dhe lulëzon, tekst me efekt neoni, kartolinë urimi që hapet,
 dhe një kamerë Polaroid interaktive — kliko butonin dhe bëj një "foto"!
@@ -29,14 +31,9 @@ dhe dizajnin origjinal.
 - CSS3 (animacione)
 - JavaScript + jQuery
 
-## 📜 Licenca & Attribution
+## 📜 Licenca
 
-Ky projekt **bazohet në "Happy Rose Day" nga Codewithshobhit (CodePen)**,
-e licencuar nën **MIT License** — © 2024 Codewithshobhit
-(https://codepen.io/Codewithshobhit/pen/vYPrQzK).
-
-Licenca origjinale MIT ruhet e pandryshuar në skedarin [LICENSE.txt](LICENSE.txt)
-dhe zbatohet për këtë vepër të përshtatur.
+© 2026 Erion Nezha. All rights reserved. Shih [LICENSE.txt](LICENSE.txt).
 
 ---
 
@@ -53,7 +50,4 @@ and design.
 
 **Run locally:** open `index.html` in a browser — no server or build required.
 
-**License & attribution:** Based on "Happy Rose Day" by Codewithshobhit (CodePen),
-MIT License, © 2024 Codewithshobhit (https://codepen.io/Codewithshobhit/pen/vYPrQzK).
-The original MIT license is kept unchanged in [LICENSE.txt](LICENSE.txt) and
-applies to this adapted work.
+© 2026 Erion Nezha. All rights reserved. See [LICENSE.txt](LICENSE.txt).
